@@ -4,6 +4,7 @@ sequentially from 0 to n - 1 and each box may contain keys to the other
 boxes.
 Write a method that determines if all the boxes can be opened."""
 
+
 def canUnlockAll(boxes):
     """
     Determine if all boxes can be opened.
